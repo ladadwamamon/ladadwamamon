@@ -49,16 +49,16 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
-
-<div align="left">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BrcTkxbzBkZzg2dGg1dHpiNXdqeWNpYnJ4MWpxcmxlOTIycjJqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHECc1GftirnHZm/giphy.gif"  />
-</div>
-
 <div align="right">
   <a href="https://github.com/ladadwamamon">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ladadwamamon&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </div>
+<div align="left">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BrcTkxbzBkZzg2dGg1dHpiNXdqeWNpYnJ4MWpxcmxlOTIycjJqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHECc1GftirnHZm/giphy.gif"  />
+</div>
+
+
 <!-- About Section -->
 <!-- # About me -->
  
