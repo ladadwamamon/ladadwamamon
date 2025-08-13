@@ -50,26 +50,25 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
 
-###
-</p>
-<br />
-
-<!-- About Section -->
-<!-- # About me -->
- 
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BrcTkxbzBkZzg2dGg1dHpiNXdqeWNpYnJ4MWpxcmxlOTIycjJqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHECc1GftirnHZm/giphy.gif"  />
 </div>
+
+<p align="center">
+  <a href="https://github.com/ladadwamamon">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ladadwamamon&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+<!-- About Section -->
+<!-- # About me -->
+ 
+
   <!--
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: ladadwamamon.dev@gmail.com<br/><br/>
 -->
-</p>
 
-<br/>
-<br/>
-<br/>
 <!--
 ## Use To Code
 
@@ -93,8 +92,8 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
--->
-<br/>
+
+<br/>-->
 <!--
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ladadwamamon&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ladadwamamon/itasks)
@@ -110,11 +109,7 @@
 <hr/>
 <br/>
 -->
-<p align="center">
-  <a href="https://github.com/ladadwamamon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ladadwamamon&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
+
 <!--
 <p align="center">
   <a href="https://github.com/ladadwamamon">
