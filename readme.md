@@ -40,7 +40,7 @@
 
 
 ###
-
+<p>
 <div align="center">
   <a href="https://www.linkedin.com/in/ladadwa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -57,7 +57,7 @@
 <div align="left">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BrcTkxbzBkZzg2dGg1dHpiNXdqeWNpYnJ4MWpxcmxlOTIycjJqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHECc1GftirnHZm/giphy.gif"  />
 </div>
-
+</p>
 
 <!-- About Section -->
 <!-- # About me -->
