@@ -54,11 +54,11 @@
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BrcTkxbzBkZzg2dGg1dHpiNXdqeWNpYnJ4MWpxcmxlOTIycjJqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHECc1GftirnHZm/giphy.gif"  />
 </div>
 
-<p align="right">
+<div align="right">
   <a href="https://github.com/ladadwamamon">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ladadwamamon&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
-</p>
+</div>
 <!-- About Section -->
 <!-- # About me -->
  
